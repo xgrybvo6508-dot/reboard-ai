@@ -15,11 +15,13 @@ image: "images/claude.png"
 2. **Building with the Claude API** + **Claude Platform 101** → CLA-3.*, CLA-4.*, CLA-8.1, CLA-8.4
 3. **Introduction to MCP** → CLA-5.1
 4. **Introduction to Agent Skills** (записан, 0) → CLA-7.*
-5. **Добить in-progress:** Cowork (CLA-2.3), MCP Advanced (CLA-5.2…5.7), AI Capabilities and Limitations (CLA-1.2), AI Fluency Framework (CLA-1.1), quiz Creative Work
+5. **Добить in-progress:** Cowork (CLA-2.3), MCP Advanced (CLA-5.2…5.7), quiz Creative Work
 6. **Локальная практика** CLA-9.* (в Academy нет)
 
 ## Пройдено
 Свёртка полностью пройденных кусков (id остаются для связей):
+- **CLA-1.1** · 4D Fluency — *AI Fluency: Framework & Foundations* ✅
+- **CLA-1.2** · Что умеет модель — *AI Capabilities and Limitations* ✅
 - **CLA-1.3** · ИИ как партнёр по учёбе — *AI Fluency for Students* ✅
 - **CLA-1.4** · Творчество с ИИ — *AI Fluency for Creative Work* ✅ (остался только quiz)
 - **CLA-1.5** · Fluency для строителя — *AI Fluency for Builders* ✅
@@ -34,16 +36,16 @@ image: "images/claude.png"
 ## CLA-1 · Fluency — как думать с ИИ
 *Источник: AI Fluency: Framework & Foundations; AI Capabilities and Limitations; AI Fluency for Students / Creative Work / Builders*
 
-### CLA-1.1 · 4D Fluency
-- **Статус:** ⬜ (*AI Fluency: Framework & Foundations* — не начат)
+### CLA-1.1 · 4D Fluency ✅
+- **Статус:** ✅ пройдено (интерливинг 17.10)
 - **Цель:** 4D: Delegation, Description, Discernment, Diligence.
 - **Делаю:** Прочитай M0. Разложи одну свою задачу по 4D.
 - **Мини-карта:** 4 ветки D.
 - **Нестандартный поворот:** Что ты никогда не делегируешь?
 - **Связь:** CUR-1.1
 
-### CLA-1.2 · Что умеет модель
-- **Статус:** 🟡 (*AI Capabilities and Limitations* — 3/14)
+### CLA-1.2 · Что умеет модель ✅
+- **Статус:** ✅ пройдено (интерливинг 17.10)
 - **Цель:** 4 свойства: предсказание следующего токена, знания, рабочая память, управляемость.
 - **Делаю:** M1: 3 промпта-ловушки (выдуманный факт / длинный контекст / размытая цель), запиши, какое свойство сломалось.
 - **Мини-карта:** 4 свойства → типичный сбой.
